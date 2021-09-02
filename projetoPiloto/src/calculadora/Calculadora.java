@@ -17,6 +17,12 @@ public class Calculadora {
 		return 0;
 	}
 	
+	/**
+	 * método responsável em realizar a subtração
+	 * @param valor1
+	 * @param valor2
+	 * @return
+	 */
 	public double subtrair(double valor1, double valor2) {
 		return 0;
 	}
