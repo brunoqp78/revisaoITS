@@ -1,5 +1,10 @@
 package calculadora;
 
+/**
+ * Classe responsável em implementar uma calculadora simples
+ * @author turin-turambar
+ *
+ */
 public class Calculadora {
 // atributos
 
