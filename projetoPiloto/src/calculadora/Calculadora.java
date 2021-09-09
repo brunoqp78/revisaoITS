@@ -19,7 +19,9 @@ public class Calculadora {
 	 * @return
 	 */
 	public double somar(double valor1, double valor2) {
-		return 0;
+		double resultado;
+		resultado = valor1+valor2;
+		return resultado;
 	}
 	
 	/**
