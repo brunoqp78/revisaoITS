@@ -12,7 +12,12 @@ public class Calculadora {
 	
 // métodos
 	
-	//modificador de acesso; pode haver static; tipo de retorno; nomeMetodo; parametros
+	/**
+	 * Méto responsável em realizar a soma da calculadora
+	 * @param valor1
+	 * @param valor2
+	 * @return
+	 */
 	public double somar(double valor1, double valor2) {
 		return 0;
 	}
@@ -27,10 +32,22 @@ public class Calculadora {
 		return 0;
 	}
 	
+	/**
+	 * Método responsável em realizar a divisão na calculadora
+	 * @param valor1
+	 * @param valor2
+	 * @return
+	 */
 	public double dividir(double valor1, double valor2) {
 		return 0;
 	}
 	
+	/**
+	 * Método responsável em realizar a multiplicação na calculadora
+	 * @param valor1
+	 * @param valor2
+	 * @return
+	 */
 	public double multiplicar(double valor1, double valor2) {
 		return 0;
 	}
